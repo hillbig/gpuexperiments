@@ -1,6 +1,5 @@
 #include <thrust/device_vector.h>
 #include <thrust/inner_product.h>
-#include "util.cuh"
 
 using namespace thrust;
 

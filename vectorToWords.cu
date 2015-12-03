@@ -1,7 +1,6 @@
 #include <thrust/iterator/zip_iterator.h>
 #include <thrust/reduce.h>
 #include "postinglist.cuh"
-#include "util.cuh"
 
 using namespace thrust;
 
