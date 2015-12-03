@@ -6,6 +6,8 @@ A demonstration of how to build an index of posting lists from a raw text using 
 
 cuda 7.0 is required.
 
+[slide(Japanese)] (http://www.slideshare.net/pfi/more-modern-gpu)
+
 ```
 >make
 >./postinglist inputfile
